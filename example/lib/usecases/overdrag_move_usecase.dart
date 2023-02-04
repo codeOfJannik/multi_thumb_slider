@@ -19,7 +19,7 @@ class _OverdragMoveUsecaseState extends State<OverdragMoveUsecase> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Overdrag Stop Usecase'),
+        title: const Text('Overdrag Move Usecase'),
       ),
       body: Center(
         child: Column(
