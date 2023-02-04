@@ -36,7 +36,7 @@ Different use cases can be covered by using the package:
 
 ## Usage
 
-There are two constructors available: `MultiThumbSlider` which takes `initialSliderValues` as parameter to create the slider with thumbs at specific values. And `MultiThumbSlider.distributed` which takes an intger > 2 in the `initialThumbAmount` parameter.
+There are two constructors available: `MultiThumbSlider` which takes `initialSliderValues` as parameter to create the slider with thumbs at specific values. And `MultiThumbSlider.distributed` which takes an integer > 2 in the `initialThumbAmount` parameter.
 
 Please read the API documentation for detailed information how the different parameters work together and how the MultiThumbSliderController can be used in detail.
 
@@ -46,7 +46,7 @@ Example:
  MultiThumbSlider(
     initalSliderValues: [0.0, 0.1, 0.2, 0.9, 1.0],
     valuesChanged: (List<double> values) {
-        // Everytime any thumb is dragged a List of all thumb values
+        // Everytime any thumb is dragged a list of all thumb values
         // is passed via valuesChanged.
     },
     // Optional: Overdrag behaviour of the thumbs.
