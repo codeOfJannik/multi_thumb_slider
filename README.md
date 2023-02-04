@@ -11,16 +11,12 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages).
 -->
 
-<div align="center">
-
 [![Platform](https://img.shields.io/badge/Platform-Flutter-02569B?logo=flutter)](https://flutter.dev)
 [![pub package](https://img.shields.io/pub/v/multi_thumb_slider.svg)](https://pub.dev/packages/multi_thumb_slider)
-
 <a href="https://twitter.com/janniks_dev?ref_src=twsrc%5Etfw">
     <img src="https://img.shields.io/twitter/follow/janniks_dev?style=flat&label=Follow&color=1DA1F2&labelColor=333940&logo=twitter&logoColor=fff">
   </a>
 
-</div><br>
 
 This Flutter package is a customizable slider widget that provides support for more than two thumbs. It provides an easy implementation of a slider with multiple thumbs that represent values in a range from 0 to 1. The slider can be customized with a custom background widget and a custom thumb builder. It is a powerful tool for creating intuitive and interactive user experiences, e.g. if a gradient creator needs to be implemented in a app.
 
